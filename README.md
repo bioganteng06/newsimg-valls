@@ -1,3 +1,9 @@
+![make.fun](https://make.fun/badge/news-image-20261123.svg)
+![rank](https://make.fun/badge/news-image-20261123/bioganteng06/newsimg-valls/rank.svg)
+![reward](https://make.fun/badge/news-image-20261123/bioganteng06/newsimg-valls/reward.svg)
+
+[Sum up 23 November's world news in one image](https://make.fun/bounty/news-image-20261123)
+
 # The World in One Day — Monday 23 November 2026
 
 This is the make.fun entry for the news-image-20261123 competition:
